@@ -16,4 +16,4 @@ PIN_LENGTH=4
 # Display Messages
 SUCCESS="${GREEN}[SUCCESS]${NC}"
 ERROR="${RED}[ERROR]${NC}"
-INFO="${BLUE}[INFO]${NC}"
+INFO="${BLUE}[INFO]${NC}" 
